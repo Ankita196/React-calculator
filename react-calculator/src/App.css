@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+ 
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.calculator{
+  background-color: white;
+  width: 400px;
+  border-radius: 16px;
+}

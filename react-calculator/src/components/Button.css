@@ -1,0 +1,10 @@
+.button{
+    height: 4 em;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 1.5 em;
+    background-color: white;
+    flex: 1;
+   color: #888;
+}
