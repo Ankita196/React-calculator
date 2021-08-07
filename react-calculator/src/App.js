@@ -1,9 +1,13 @@
 import './App.css';
+import Button from "./components/Button"
 
-function App() {
+const  App= ()=> {
   return (
     <div className="App">
-      <h1>Heading</h1>
+      <div className="calculator">
+        <Button />
+      </div>
+
     </div>
   );
 }
